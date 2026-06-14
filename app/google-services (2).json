@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4369344268",
+    "project_id": "jobhub-601e0",
+    "storage_bucket": "jobhub-601e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4369344268:android:bcff117acd9bc5455e8b29",
+        "android_client_info": {
+          "package_name": "com.example.a208464_zahin_drnazatul_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU5Z1slJ71sw9jb1IIqXOrA41GMp4EJ3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
